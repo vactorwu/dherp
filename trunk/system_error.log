@@ -1,0 +1,1231 @@
+
+-------------------------------------------------------------------
+
+ 出错时间：16:15:44
+ 操作员：打单员
+ 错误代码：39
+ 错误信息：Error accessing external object property cg_ycl_ycl_py at line 1 in clicked event of object cb_2 of w_kccx.
+ 窗口/菜单：w_kccx
+ 出错控件：cb_2
+ 出错事件：clicked
+ 出错行数：1
+
+-------------------------------------------------------------------
+
+ 出错时间：16:24:01
+ 操作员：打单员
+ 错误代码：39
+ 错误信息：Error accessing external object property cg_ycl_ycl_py at line 1 in clicked event of object cb_2 of w_kccx.
+ 窗口/菜单：w_kccx
+ 出错控件：cb_2
+ 出错事件：clicked
+ 出错行数：1
+
+-------------------------------------------------------------------
+
+ 出错时间：13:37:07
+ 操作员：打单员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 35 in itemchanged event of object dw_2 of w_thsb_add.
+ 窗口/菜单：w_thsb_add
+ 出错控件：dw_2
+ 出错事件：itemchanged
+ 出错行数：35
+
+-------------------------------------------------------------------
+
+ 出错时间：13:38:21
+ 操作员：打单员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 45 in enter event of object dw_2 of w_thsb_add.
+ 窗口/菜单：w_thsb_add
+ 出错控件：dw_2
+ 出错事件：enter
+ 出错行数：45
+
+-------------------------------------------------------------------
+
+ 出错时间：15:17:59
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 13 in clicked event of object cb_3 of w_ycl_crkhz.
+ 窗口/菜单：w_ycl_crkhz
+ 出错控件：cb_3
+ 出错事件：clicked
+ 出错行数：13
+
+-------------------------------------------------------------------
+
+ 出错时间：13:15:31
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 6 in clicked event of object cb_1 of w_ycl_rkmxhz.
+ 窗口/菜单：w_ycl_rkmxhz
+ 出错控件：cb_1
+ 出错事件：clicked
+ 出错行数：6
+
+-------------------------------------------------------------------
+
+ 出错时间：13:16:56
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 6 in clicked event of object cb_1 of w_ycl_rkmxhz.
+ 窗口/菜单：w_ycl_rkmxhz
+ 出错控件：cb_1
+ 出错事件：clicked
+ 出错行数：6
+
+-------------------------------------------------------------------
+
+ 出错时间：15:07:52
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 8 in clicked event of object cb_1 of w_ycl_ckmxhz.
+ 窗口/菜单：w_ycl_ckmxhz
+ 出错控件：cb_1
+ 出错事件：clicked
+ 出错行数：8
+
+-------------------------------------------------------------------
+
+ 出错时间：09:09:52
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 7 in retrieveend event of object dw_1 of w_kccx.
+ 窗口/菜单：w_kccx
+ 出错控件：dw_1
+ 出错事件：retrieveend
+ 出错行数：7
+
+-------------------------------------------------------------------
+
+ 出错时间：11:00:50
+ 操作员：系统管理员
+ 错误代码：18
+ 错误信息：Function doesn't return value at line 30 in function of_changetogys of object w_ycl_rkd.
+ 窗口/菜单：w_ycl_rkd
+ 出错控件：w_ycl_rkd
+ 出错事件：of_changetogys
+ 出错行数：30
+
+-------------------------------------------------------------------
+
+ 出错时间：10:29:01
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 8 in itemchanged event of object dw_2 of w_ycl_crkhz.
+ 窗口/菜单：w_ycl_crkhz
+ 出错控件：dw_2
+ 出错事件：itemchanged
+ 出错行数：8
+
+-------------------------------------------------------------------
+
+ 出错时间：11:01:17
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 26 in uc_run event of object w_ycl_crk_mx.
+ 窗口/菜单：w_ycl_crk_mx
+ 出错控件：w_ycl_crk_mx
+ 出错事件：uc_run
+ 出错行数：26
+
+-------------------------------------------------------------------
+
+ 出错时间：11:08:33
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 81 in uc_run event of object w_ycl_crk_mx.
+ 窗口/菜单：w_ycl_crk_mx
+ 出错控件：w_ycl_crk_mx
+ 出错事件：uc_run
+ 出错行数：81
+
+-------------------------------------------------------------------
+
+ 出错时间：11:09:27
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 81 in uc_run event of object w_ycl_crk_mx.
+ 窗口/菜单：w_ycl_crk_mx
+ 出错控件：w_ycl_crk_mx
+ 出错事件：uc_run
+ 出错行数：81
+
+-------------------------------------------------------------------
+
+ 出错时间：11:10:12
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 109 in uc_run event of object w_ycl_crk_mx.
+ 窗口/菜单：w_ycl_crk_mx
+ 出错控件：w_ycl_crk_mx
+ 出错事件：uc_run
+ 出错行数：109
+
+-------------------------------------------------------------------
+
+ 出错时间：11:17:07
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 27 in uc_run event of object w_ycl_crk_mx.
+ 窗口/菜单：w_ycl_crk_mx
+ 出错控件：w_ycl_crk_mx
+ 出错事件：uc_run
+ 出错行数：27
+
+-------------------------------------------------------------------
+
+ 出错时间：13:19:48
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 42 in function of_llmx of object w_ycl_crk_hz.
+ 窗口/菜单：w_ycl_crk_hz
+ 出错控件：w_ycl_crk_hz
+ 出错事件：of_llmx
+ 出错行数：42
+
+-------------------------------------------------------------------
+
+ 出错时间：13:25:07
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 37 in function of_rkmx of object w_ycl_crk_hz.
+ 窗口/菜单：w_ycl_crk_hz
+ 出错控件：w_ycl_crk_hz
+ 出错事件：of_rkmx
+ 出错行数：37
+
+-------------------------------------------------------------------
+
+ 出错时间：13:38:58
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 150 in uc_run event of object w_ycl_crk_mx.
+ 窗口/菜单：w_ycl_crk_mx
+ 出错控件：w_ycl_crk_mx
+ 出错事件：uc_run
+ 出错行数：150
+
+-------------------------------------------------------------------
+
+ 出错时间：16:30:43
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 22 in function of_getpdnum of object w_ycl_crk_hz.
+ 窗口/菜单：w_ycl_crk_hz
+ 出错控件：w_ycl_crk_hz
+ 出错事件：of_getpdnum
+ 出错行数：22
+
+-------------------------------------------------------------------
+
+ 出错时间：11:14:39
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 123 in uc_run event of object w_ycl_crk_mx.
+ 窗口/菜单：w_ycl_crk_mx
+ 出错控件：w_ycl_crk_mx
+ 出错事件：uc_run
+ 出错行数：123
+
+-------------------------------------------------------------------
+
+ 出错时间：11:14:52
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 123 in uc_run event of object w_ycl_crk_mx.
+ 窗口/菜单：w_ycl_crk_mx
+ 出错控件：w_ycl_crk_mx
+ 出错事件：uc_run
+ 出错行数：123
+
+-------------------------------------------------------------------
+
+ 出错时间：11:16:10
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 123 in uc_run event of object w_ycl_crk_mx.
+ 窗口/菜单：w_ycl_crk_mx
+ 出错控件：w_ycl_crk_mx
+ 出错事件：uc_run
+ 出错行数：123
+
+-------------------------------------------------------------------
+
+ 出错时间：11:16:14
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 123 in uc_run event of object w_ycl_crk_mx.
+ 窗口/菜单：w_ycl_crk_mx
+ 出错控件：w_ycl_crk_mx
+ 出错事件：uc_run
+ 出错行数：123
+
+-------------------------------------------------------------------
+
+ 出错时间：11:16:17
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 123 in uc_run event of object w_ycl_crk_mx.
+ 窗口/菜单：w_ycl_crk_mx
+ 出错控件：w_ycl_crk_mx
+ 出错事件：uc_run
+ 出错行数：123
+
+-------------------------------------------------------------------
+
+ 出错时间：16:01:14
+ 操作员：系统管理员
+ 错误代码：2
+ 错误信息：Null object reference at line 18 in constructor event of object dw_1 of w_kccx.
+ 窗口/菜单：w_kccx
+ 出错控件：dw_1
+ 出错事件：constructor
+ 出错行数：18
+
+-------------------------------------------------------------------
+
+ 出错时间：12:11:53
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 24 in clicked event of object dw_prolist of w_bomprint_pro.
+ 窗口/菜单：w_bomprint_pro
+ 出错控件：dw_prolist
+ 出错事件：clicked
+ 出错行数：24
+
+-------------------------------------------------------------------
+
+ 出错时间：11:17:39
+ 操作员：系统管理员
+ 错误代码：12
+ 错误信息：DataWindow column type does not match GetItem type at line 25 in clicked event of object cb_2 of w_group.
+ 窗口/菜单：w_group
+ 出错控件：cb_2
+ 出错事件：clicked
+ 出错行数：25
+
+-------------------------------------------------------------------
+
+ 出错时间：11:18:37
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 26 in clicked event of object cb_2 of w_group.
+ 窗口/菜单：w_group
+ 出错控件：cb_2
+ 出错事件：clicked
+ 出错行数：26
+
+-------------------------------------------------------------------
+
+ 出错时间：11:19:15
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 37 in clicked event of object cb_2 of w_group.
+ 窗口/菜单：w_group
+ 出错控件：cb_2
+ 出错事件：clicked
+ 出错行数：37
+
+-------------------------------------------------------------------
+
+ 出错时间：11:19:33
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 37 in clicked event of object cb_2 of w_group.
+ 窗口/菜单：w_group
+ 出错控件：cb_2
+ 出错事件：clicked
+ 出错行数：37
+
+-------------------------------------------------------------------
+
+ 出错时间：08:43:33
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 69 in clicked event of object cb_save of w_group.
+ 窗口/菜单：w_group
+ 出错控件：cb_save
+ 出错事件：clicked
+ 出错行数：69
+
+-------------------------------------------------------------------
+
+ 出错时间：13:38:08
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 42 in itemchanged event of object dw_1 of w_process_add.
+ 窗口/菜单：w_process_add
+ 出错控件：dw_1
+ 出错事件：itemchanged
+ 出错行数：42
+
+-------------------------------------------------------------------
+
+ 出错时间：15:43:54
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 28 in doubleclicked event of object dw_pro of w_process_add.
+ 窗口/菜单：w_process_add
+ 出错控件：dw_pro
+ 出错事件：doubleclicked
+ 出错行数：28
+
+-------------------------------------------------------------------
+
+ 出错时间：15:14:59
+ 操作员：系统管理员
+ 错误代码：39
+ 错误信息：Error accessing external object property horizontalscrollpostionz
+(Line 1  Column 36: incorrect syntax.)
+ at line 21 in constructor event of object dw_1 of w_bcb.
+ 窗口/菜单：w_bcb
+ 出错控件：dw_1
+ 出错事件：constructor
+ 出错行数：21
+
+-------------------------------------------------------------------
+
+ 出错时间：15:15:19
+ 操作员：系统管理员
+ 错误代码：39
+ 错误信息：Error accessing external object property horizontalscrollpostionz
+(Line 1  Column 36: incorrect syntax.)
+ at line 21 in constructor event of object dw_1 of w_bcb.
+ 窗口/菜单：w_bcb
+ 出错控件：dw_1
+ 出错事件：constructor
+ 出错行数：21
+
+-------------------------------------------------------------------
+
+ 出错时间：15:15:50
+ 操作员：系统管理员
+ 错误代码：39
+ 错误信息：Error accessing external object property horizontalscrollpostionz
+(Line 1  Column 36: incorrect syntax.)
+ at line 21 in constructor event of object dw_1 of w_bcb.
+ 窗口/菜单：w_bcb
+ 出错控件：dw_1
+ 出错事件：constructor
+ 出错行数：21
+
+-------------------------------------------------------------------
+
+ 出错时间：15:18:14
+ 操作员：系统管理员
+ 错误代码：39
+ 错误信息：Error accessing external object property horizontalscrollpostion2
+(Line 1  Column 36: incorrect syntax.)
+ at line 21 in constructor event of object dw_1 of w_bcb.
+ 窗口/菜单：w_bcb
+ 出错控件：dw_1
+ 出错事件：constructor
+ 出错行数：21
+
+-------------------------------------------------------------------
+
+ 出错时间：15:19:37
+ 操作员：系统管理员
+ 错误代码：39
+ 错误信息：Error accessing external object property horizontalscrollpostion
+(Line 1  Column 35: incorrect syntax.)
+ at line 21 in constructor event of object dw_1 of w_bcb.
+ 窗口/菜单：w_bcb
+ 出错控件：dw_1
+ 出错事件：constructor
+ 出错行数：21
+
+-------------------------------------------------------------------
+
+ 出错时间：13:45:36
+ 操作员：系统管理员
+ 错误代码：12
+ 错误信息：DataWindow column type does not match GetItem type at line 27 in itemchanged event of object dw_2 of w_bcb_worker.
+ 窗口/菜单：w_bcb_worker
+ 出错控件：dw_2
+ 出错事件：itemchanged
+ 出错行数：27
+
+-------------------------------------------------------------------
+
+ 出错时间：13:46:33
+ 操作员：系统管理员
+ 错误代码：12
+ 错误信息：DataWindow column type does not match GetItem type at line 27 in itemchanged event of object dw_2 of w_bcb_worker.
+ 窗口/菜单：w_bcb_worker
+ 出错控件：dw_2
+ 出错事件：itemchanged
+ 出错行数：27
+
+-------------------------------------------------------------------
+
+ 出错时间：13:47:24
+ 操作员：系统管理员
+ 错误代码：12
+ 错误信息：DataWindow column type does not match GetItem type at line 27 in itemchanged event of object dw_2 of w_bcb_worker.
+ 窗口/菜单：w_bcb_worker
+ 出错控件：dw_2
+ 出错事件：itemchanged
+ 出错行数：27
+
+-------------------------------------------------------------------
+
+ 出错时间：13:48:30
+ 操作员：系统管理员
+ 错误代码：12
+ 错误信息：DataWindow column type does not match GetItem type at line 27 in itemchanged event of object dw_2 of w_bcb_worker.
+ 窗口/菜单：w_bcb_worker
+ 出错控件：dw_2
+ 出错事件：itemchanged
+ 出错行数：27
+
+-------------------------------------------------------------------
+
+ 出错时间：13:48:33
+ 操作员：系统管理员
+ 错误代码：12
+ 错误信息：DataWindow column type does not match GetItem type at line 27 in itemchanged event of object dw_2 of w_bcb_worker.
+ 窗口/菜单：w_bcb_worker
+ 出错控件：dw_2
+ 出错事件：itemchanged
+ 出错行数：27
+
+-------------------------------------------------------------------
+
+ 出错时间：13:48:36
+ 操作员：系统管理员
+ 错误代码：12
+ 错误信息：DataWindow column type does not match GetItem type at line 27 in itemchanged event of object dw_2 of w_bcb_worker.
+ 窗口/菜单：w_bcb_worker
+ 出错控件：dw_2
+ 出错事件：itemchanged
+ 出错行数：27
+
+-------------------------------------------------------------------
+
+ 出错时间：13:49:06
+ 操作员：系统管理员
+ 错误代码：12
+ 错误信息：DataWindow column type does not match GetItem type at line 31 in itemchanged event of object dw_2 of w_bcb_worker.
+ 窗口/菜单：w_bcb_worker
+ 出错控件：dw_2
+ 出错事件：itemchanged
+ 出错行数：31
+
+-------------------------------------------------------------------
+
+ 出错时间：14:07:36
+ 操作员：
+ 错误代码：20
+ 错误信息：Database command has not been successfully prepared at line 7 in function of_getserverdate of object pfc_n_zjf_dwsrv.
+ 窗口/菜单：pfc_n_zjf_dwsrv
+ 出错控件：pfc_n_zjf_dwsrv
+ 出错事件：of_getserverdate
+ 出错行数：7
+
+-------------------------------------------------------------------
+
+ 出错时间：16:00:11
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 24 in function of_getrightlist of object w_operator_right.
+ 窗口/菜单：w_operator_right
+ 出错控件：w_operator_right
+ 出错事件：of_getrightlist
+ 出错行数：24
+
+-------------------------------------------------------------------
+
+ 出错时间：09:51:31
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 100 in uc_run event of object w_ycl_crk_mx.
+ 窗口/菜单：w_ycl_crk_mx
+ 出错控件：w_ycl_crk_mx
+ 出错事件：uc_run
+ 出错行数：100
+
+-------------------------------------------------------------------
+
+ 出错时间：10:01:45
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 123 in uc_run event of object w_ycl_crk_mx.
+ 窗口/菜单：w_ycl_crk_mx
+ 出错控件：w_ycl_crk_mx
+ 出错事件：uc_run
+ 出错行数：123
+
+-------------------------------------------------------------------
+
+ 出错时间：10:05:42
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 42 in function of_rkmx of object w_ycl_crk_hz.
+ 窗口/菜单：w_ycl_crk_hz
+ 出错控件：w_ycl_crk_hz
+ 出错事件：of_rkmx
+ 出错行数：42
+
+-------------------------------------------------------------------
+
+ 出错时间：16:30:56
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 36 in ue_dwnkey event of object dw_pro of w_scll_add.
+ 窗口/菜单：w_scll_add
+ 出错控件：dw_pro
+ 出错事件：ue_dwnkey
+ 出错行数：36
+
+-------------------------------------------------------------------
+
+ 出错时间：10:51:20
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 27 in doubleclicked event of object dw_pro of w_process_add.
+ 窗口/菜单：w_process_add
+ 出错控件：dw_pro
+ 出错事件：doubleclicked
+ 出错行数：27
+
+-------------------------------------------------------------------
+
+ 出错时间：10:52:07
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 27 in doubleclicked event of object dw_pro of w_process_add.
+ 窗口/菜单：w_process_add
+ 出错控件：dw_pro
+ 出错事件：doubleclicked
+ 出错行数：27
+
+-------------------------------------------------------------------
+
+ 出错时间：11:01:43
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 8 in doubleclicked event of object dw_probom of w_process_add.
+ 窗口/菜单：w_process_add
+ 出错控件：dw_probom
+ 出错事件：doubleclicked
+ 出错行数：8
+
+-------------------------------------------------------------------
+
+ 出错时间：11:02:18
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 8 in doubleclicked event of object dw_probom of w_process_add.
+ 窗口/菜单：w_process_add
+ 出错控件：dw_probom
+ 出错事件：doubleclicked
+ 出错行数：8
+
+-------------------------------------------------------------------
+
+ 出错时间：11:20:15
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 34 in itemchanged event of object dw_1 of w_bcb_worker.
+ 窗口/菜单：w_bcb_worker
+ 出错控件：dw_1
+ 出错事件：itemchanged
+ 出错行数：34
+
+-------------------------------------------------------------------
+
+ 出错时间：14:00:41
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 34 in itemchanged event of object dw_1 of w_bcb_worker.
+ 窗口/菜单：w_bcb_worker
+ 出错控件：dw_1
+ 出错事件：itemchanged
+ 出错行数：34
+
+-------------------------------------------------------------------
+
+ 出错时间：14:01:16
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 34 in itemchanged event of object dw_1 of w_bcb_worker.
+ 窗口/菜单：w_bcb_worker
+ 出错控件：dw_1
+ 出错事件：itemchanged
+ 出错行数：34
+
+-------------------------------------------------------------------
+
+ 出错时间：15:55:29
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 87 in uc_run event of object w_ycl_crk_kehu_mx.
+ 窗口/菜单：w_ycl_crk_kehu_mx
+ 出错控件：w_ycl_crk_kehu_mx
+ 出错事件：uc_run
+ 出错行数：87
+
+-------------------------------------------------------------------
+
+ 出错时间：08:56:57
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 9 in clicked event of object cb_1 of test.
+ 窗口/菜单：test
+ 出错控件：cb_1
+ 出错事件：clicked
+ 出错行数：9
+
+-------------------------------------------------------------------
+
+ 出错时间：14:23:12
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 9 in clicked event of object shl_1 of w_kccx.
+ 窗口/菜单：w_kccx
+ 出错控件：shl_1
+ 出错事件：clicked
+ 出错行数：9
+
+-------------------------------------------------------------------
+
+ 出错时间：08:55:01
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 10 in ue_init_retrieve event of object w_bcb_worker.
+ 窗口/菜单：w_bcb_worker
+ 出错控件：w_bcb_worker
+ 出错事件：ue_init_retrieve
+ 出错行数：10
+
+-------------------------------------------------------------------
+
+ 出错时间：08:55:11
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 10 in ue_init_retrieve event of object w_bcb_worker.
+ 窗口/菜单：w_bcb_worker
+ 出错控件：w_bcb_worker
+ 出错事件：ue_init_retrieve
+ 出错行数：10
+
+-------------------------------------------------------------------
+
+ 出错时间：09:42:39
+ 操作员：系统管理员
+ 错误代码：2
+ 错误信息：Null object reference at line 18 in constructor event of object dw_1 of uo_load.
+ 窗口/菜单：uo_load
+ 出错控件：dw_1
+ 出错事件：constructor
+ 出错行数：18
+
+-------------------------------------------------------------------
+
+ 出错时间：09:48:13
+ 操作员：系统管理员
+ 错误代码：2
+ 错误信息：Null object reference at line 18 in constructor event of object dw_1 of uo_load.
+ 窗口/菜单：uo_load
+ 出错控件：dw_1
+ 出错事件：constructor
+ 出错行数：18
+
+-------------------------------------------------------------------
+
+ 出错时间：09:50:13
+ 操作员：系统管理员
+ 错误代码：2
+ 错误信息：Null object reference at line 18 in constructor event of object dw_1 of uo_load.
+ 窗口/菜单：uo_load
+ 出错控件：dw_1
+ 出错事件：constructor
+ 出错行数：18
+
+-------------------------------------------------------------------
+
+ 出错时间：10:17:00
+ 操作员：系统管理员
+ 错误代码：2
+ 错误信息：Null object reference at line 18 in constructor event of object dw_1 of uo_load.
+ 窗口/菜单：uo_load
+ 出错控件：dw_1
+ 出错事件：constructor
+ 出错行数：18
+
+-------------------------------------------------------------------
+
+ 出错时间：11:23:49
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 2 in ue_getbackdata event of object uo_1 of w_bcb_worker.
+ 窗口/菜单：w_bcb_worker
+ 出错控件：uo_1
+ 出错事件：ue_getbackdata
+ 出错行数：2
+
+-------------------------------------------------------------------
+
+ 出错时间：11:24:58
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 2 in ue_getbackdata event of object uo_1 of w_bcb_worker.
+ 窗口/菜单：w_bcb_worker
+ 出错控件：uo_1
+ 出错事件：ue_getbackdata
+ 出错行数：2
+
+-------------------------------------------------------------------
+
+ 出错时间：11:25:41
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 2 in ue_getbackdata event of object uo_1 of w_bcb_worker.
+ 窗口/菜单：w_bcb_worker
+ 出错控件：uo_1
+ 出错事件：ue_getbackdata
+ 出错行数：2
+
+-------------------------------------------------------------------
+
+ 出错时间：09:14:26
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 6 in ue_query event of object uo_1 of w_loadpro.
+ 窗口/菜单：w_loadpro
+ 出错控件：uo_1
+ 出错事件：ue_query
+ 出错行数：6
+
+-------------------------------------------------------------------
+
+ 出错时间：09:34:19
+ 操作员：系统管理员
+ 错误代码：30
+ 错误信息：Cannot find data type st_clear at line 2 in create event of object uo_load.
+ 窗口/菜单：uo_load
+ 出错控件：uo_load
+ 出错事件：create
+ 出错行数：2
+
+-------------------------------------------------------------------
+
+ 出错时间：09:38:08
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 22 in ue_init_add event of object w_bcb_worker.
+ 窗口/菜单：w_bcb_worker
+ 出错控件：w_bcb_worker
+ 出错事件：ue_init_add
+ 出错行数：22
+
+-------------------------------------------------------------------
+
+ 出错时间：09:38:27
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 22 in ue_init_add event of object w_bcb_worker.
+ 窗口/菜单：w_bcb_worker
+ 出错控件：w_bcb_worker
+ 出错事件：ue_init_add
+ 出错行数：22
+
+-------------------------------------------------------------------
+
+ 出错时间：09:42:34
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 22 in ue_init_add event of object w_bcb_worker.
+ 窗口/菜单：w_bcb_worker
+ 出错控件：w_bcb_worker
+ 出错事件：ue_init_add
+ 出错行数：22
+
+-------------------------------------------------------------------
+
+ 出错时间：09:42:48
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 22 in ue_init_add event of object w_bcb_worker.
+ 窗口/菜单：w_bcb_worker
+ 出错控件：w_bcb_worker
+ 出错事件：ue_init_add
+ 出错行数：22
+
+-------------------------------------------------------------------
+
+ 出错时间：09:44:08
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 22 in ue_init_add event of object w_bcb_worker.
+ 窗口/菜单：w_bcb_worker
+ 出错控件：w_bcb_worker
+ 出错事件：ue_init_add
+ 出错行数：22
+
+-------------------------------------------------------------------
+
+ 出错时间：08:56:02
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 2 in clicked event of object cb_add of w_bcb.
+ 窗口/菜单：w_bcb
+ 出错控件：cb_add
+ 出错事件：clicked
+ 出错行数：2
+
+-------------------------------------------------------------------
+
+ 出错时间：10:12:29
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 14 in ue_init_retrieve event of object w_bcb_worker.
+ 窗口/菜单：w_bcb_worker
+ 出错控件：w_bcb_worker
+ 出错事件：ue_init_retrieve
+ 出错行数：14
+
+-------------------------------------------------------------------
+
+ 出错时间：10:18:18
+ 操作员：系统管理员
+ 错误代码：2
+ 错误信息：Null object reference at line 7 in itemfocuschanged event of object dw_1 of w_bcb_worker.
+ 窗口/菜单：w_bcb_worker
+ 出错控件：dw_1
+ 出错事件：itemfocuschanged
+ 出错行数：7
+
+-------------------------------------------------------------------
+
+ 出错时间：10:24:03
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 5 in losefocus event of object dw_1 of w_bcb_worker.
+ 窗口/菜单：w_bcb_worker
+ 出错控件：dw_1
+ 出错事件：losefocus
+ 出错行数：5
+
+-------------------------------------------------------------------
+
+ 出错时间：10:40:41
+ 操作员：系统管理员
+ 错误代码：2
+ 错误信息：Null object reference at line 18 in constructor event of object dw_1 of uo_load.
+ 窗口/菜单：uo_load
+ 出错控件：dw_1
+ 出错事件：constructor
+ 出错行数：18
+
+-------------------------------------------------------------------
+
+ 出错时间：10:41:26
+ 操作员：系统管理员
+ 错误代码：2
+ 错误信息：Null object reference at line 18 in constructor event of object dw_1 of uo_load.
+ 窗口/菜单：uo_load
+ 出错控件：dw_1
+ 出错事件：constructor
+ 出错行数：18
+
+-------------------------------------------------------------------
+
+ 出错时间：10:46:30
+ 操作员：系统管理员
+ 错误代码：2
+ 错误信息：Null object reference at line 18 in constructor event of object dw_1 of uo_load.
+ 窗口/菜单：uo_load
+ 出错控件：dw_1
+ 出错事件：constructor
+ 出错行数：18
+
+-------------------------------------------------------------------
+
+ 出错时间：10:47:07
+ 操作员：系统管理员
+ 错误代码：2
+ 错误信息：Null object reference at line 18 in constructor event of object dw_1 of uo_load.
+ 窗口/菜单：uo_load
+ 出错控件：dw_1
+ 出错事件：constructor
+ 出错行数：18
+
+-------------------------------------------------------------------
+
+ 出错时间：10:48:22
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 10 in ue_getbackdata event of object uo_1 of w_loadprocess.
+ 窗口/菜单：w_loadprocess
+ 出错控件：uo_1
+ 出错事件：ue_getbackdata
+ 出错行数：10
+
+-------------------------------------------------------------------
+
+ 出错时间：10:48:26
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 10 in ue_getbackdata event of object uo_1 of w_loadprocess.
+ 窗口/菜单：w_loadprocess
+ 出错控件：uo_1
+ 出错事件：ue_getbackdata
+ 出错行数：10
+
+-------------------------------------------------------------------
+
+ 出错时间：10:48:28
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 10 in ue_getbackdata event of object uo_1 of w_loadprocess.
+ 窗口/菜单：w_loadprocess
+ 出错控件：uo_1
+ 出错事件：ue_getbackdata
+ 出错行数：10
+
+-------------------------------------------------------------------
+
+ 出错时间：10:48:43
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 10 in ue_getbackdata event of object uo_1 of w_loadprocess.
+ 窗口/菜单：w_loadprocess
+ 出错控件：uo_1
+ 出错事件：ue_getbackdata
+ 出错行数：10
+
+-------------------------------------------------------------------
+
+ 出错时间：15:36:42
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 14 in ue_init_retrieve event of object w_bcb_worker.
+ 窗口/菜单：w_bcb_worker
+ 出错控件：w_bcb_worker
+ 出错事件：ue_init_retrieve
+ 出错行数：14
+
+-------------------------------------------------------------------
+
+ 出错时间：15:37:07
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 14 in ue_init_retrieve event of object w_bcb_worker.
+ 窗口/菜单：w_bcb_worker
+ 出错控件：w_bcb_worker
+ 出错事件：ue_init_retrieve
+ 出错行数：14
+
+-------------------------------------------------------------------
+
+ 出错时间：16:11:40
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 14 in ue_init_retrieve event of object w_bcb_worker.
+ 窗口/菜单：w_bcb_worker
+ 出错控件：w_bcb_worker
+ 出错事件：ue_init_retrieve
+ 出错行数：14
+
+-------------------------------------------------------------------
+
+ 出错时间：16:12:16
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 14 in ue_init_retrieve event of object w_bcb_worker.
+ 窗口/菜单：w_bcb_worker
+ 出错控件：w_bcb_worker
+ 出错事件：ue_init_retrieve
+ 出错行数：14
+
+-------------------------------------------------------------------
+
+ 出错时间：09:55:28
+ 操作员：系统管理员
+ 错误代码：22
+ 错误信息：Unknown object type: 000002 at line 10 in ue_edit event of object uo_1 of w_loadprocess.
+ 窗口/菜单：w_loadprocess
+ 出错控件：uo_1
+ 出错事件：ue_edit
+ 出错行数：10
+
+-------------------------------------------------------------------
+
+ 出错时间：10:18:36
+ 操作员：系统管理员
+ 错误代码：2
+ 错误信息：Null object reference at line 9 in open event of object w_cp_add.
+ 窗口/菜单：w_cp_add
+ 出错控件：w_cp_add
+ 出错事件：open
+ 出错行数：9
+
+-------------------------------------------------------------------
+
+ 出错时间：10:18:43
+ 操作员：系统管理员
+ 错误代码：2
+ 错误信息：Null object reference at line 9 in open event of object w_ycl_add.
+ 窗口/菜单：w_ycl_add
+ 出错控件：w_ycl_add
+ 出错事件：open
+ 出错行数：9
+
+-------------------------------------------------------------------
+
+ 出错时间：10:19:44
+ 操作员：系统管理员
+ 错误代码：2
+ 错误信息：Null object reference at line 9 in open event of object w_cp_add.
+ 窗口/菜单：w_cp_add
+ 出错控件：w_cp_add
+ 出错事件：open
+ 出错行数：9
+
+-------------------------------------------------------------------
+
+ 出错时间：10:32:37
+ 操作员：系统管理员
+ 错误代码：2
+ 错误信息：Null object reference at line 2 in clicked event of object cb_loadycl of w_ycl_rkd.
+ 窗口/菜单：w_ycl_rkd
+ 出错控件：cb_loadycl
+ 出错事件：clicked
+ 出错行数：2
+
+-------------------------------------------------------------------
+
+ 出错时间：10:35:52
+ 操作员：系统管理员
+ 错误代码：2
+ 错误信息：Null object reference at line 2 in clicked event of object cb_loadycl of w_ycl_rkd.
+ 窗口/菜单：w_ycl_rkd
+ 出错控件：cb_loadycl
+ 出错事件：clicked
+ 出错行数：2
+
+-------------------------------------------------------------------
+
+ 出错时间：10:35:57
+ 操作员：系统管理员
+ 错误代码：2
+ 错误信息：Null object reference at line 2 in clicked event of object cb_loadycl of w_ycl_rkd.
+ 窗口/菜单：w_ycl_rkd
+ 出错控件：cb_loadycl
+ 出错事件：clicked
+ 出错行数：2
+
+-------------------------------------------------------------------
+
+ 出错时间：10:36:07
+ 操作员：系统管理员
+ 错误代码：2
+ 错误信息：Null object reference at line 2 in clicked event of object cb_loadycl of w_ycl_rkd.
+ 窗口/菜单：w_ycl_rkd
+ 出错控件：cb_loadycl
+ 出错事件：clicked
+ 出错行数：2
+
+-------------------------------------------------------------------
+
+ 出错时间：10:36:09
+ 操作员：系统管理员
+ 错误代码：2
+ 错误信息：Null object reference at line 2 in clicked event of object cb_loadycl of w_ycl_rkd.
+ 窗口/菜单：w_ycl_rkd
+ 出错控件：cb_loadycl
+ 出错事件：clicked
+ 出错行数：2
+
+-------------------------------------------------------------------
+
+ 出错时间：10:43:21
+ 操作员：系统管理员
+ 错误代码：2
+ 错误信息：Null object reference at line 21 in open event of object w_loadycl.
+ 窗口/菜单：w_loadycl
+ 出错控件：w_loadycl
+ 出错事件：open
+ 出错行数：21
+
+-------------------------------------------------------------------
+
+ 出错时间：10:44:22
+ 操作员：系统管理员
+ 错误代码：2
+ 错误信息：Null object reference at line 21 in open event of object w_loadycl.
+ 窗口/菜单：w_loadycl
+ 出错控件：w_loadycl
+ 出错事件：open
+ 出错行数：21
+
+-------------------------------------------------------------------
+
+ 出错时间：10:45:27
+ 操作员：系统管理员
+ 错误代码：2
+ 错误信息：Null object reference at line 3 in clicked event of object cb_loadycl of w_ycl_rkd.
+ 窗口/菜单：w_ycl_rkd
+ 出错控件：cb_loadycl
+ 出错事件：clicked
+ 出错行数：3
+
+-------------------------------------------------------------------
+
+ 出错时间：10:48:22
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 6 in close event of object w_ycl_rkd.
+ 窗口/菜单：w_ycl_rkd
+ 出错控件：w_ycl_rkd
+ 出错事件：close
+ 出错行数：6
+
+-------------------------------------------------------------------
+
+ 出错时间：10:49:27
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 6 in close event of object w_ycl_rkd.
+ 窗口/菜单：w_ycl_rkd
+ 出错控件：w_ycl_rkd
+ 出错事件：close
+ 出错行数：6
+
+-------------------------------------------------------------------
+
+ 出错时间：10:52:19
+ 操作员：系统管理员
+ 错误代码：6
+ 错误信息：Invalid DataWindow row/column specified at line 6 in close event of object w_ycl_rkd.
+ 窗口/菜单：w_ycl_rkd
+ 出错控件：w_ycl_rkd
+ 出错事件：close
+ 出错行数：6
+
+-------------------------------------------------------------------
+
+ 出错时间：12:46:11
+ 操作员：系统管理员
+ 错误代码：21
+ 错误信息：Bad runtime function reference at line 1 in uc_run event of object w_ycl_crk_hz.
+ 窗口/菜单：w_ycl_crk_hz
+ 出错控件：w_ycl_crk_hz
+ 出错事件：uc_run
+ 出错行数：1
+
+-------------------------------------------------------------------
+
+ 出错时间：12:46:20
+ 操作员：系统管理员
+ 错误代码：21
+ 错误信息：Bad runtime function reference at line 1 in uc_run event of object w_ycl_crk_mx.
+ 窗口/菜单：w_ycl_crk_mx
+ 出错控件：w_ycl_crk_mx
+ 出错事件：uc_run
+ 出错行数：1
